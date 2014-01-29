@@ -1,0 +1,38 @@
+UID,host,ifName,ifOperStatus,ifAdminStatus,ifIndex,ifType,ifDescr,ifAlias,ifHighSpeed,"updated_at"
+1,"10.215.32.101",Vl1,"'down'","'down'",1,"'propVirtual'",Vlan1,,1000,1390995789
+10101,"10.215.32.101","Gi0/1","'up'","'up'",10101,"'ethernetCsmacd'","GigabitEthernet0/1",,1000,1390995789
+10102,"10.215.32.101","Gi0/2","'up'","'up'",10102,"'ethernetCsmacd'","GigabitEthernet0/2","** Trunk til 3550 switch 4 etg 10.215.250.5 **",100,1390995789
+10103,"10.215.32.101","Gi0/3","'up'","'up'",10103,"'ethernetCsmacd'","GigabitEthernet0/3","*** Cisco ASA 5510 DEMO-CTX-FW port Eth0/0 ***",1000,1390995789
+10104,"10.215.32.101","Gi0/4","'up'","'up'",10104,"'ethernetCsmacd'","GigabitEthernet0/4","Cisco ASA 5510 DEMO-CTX-FW stdb port Eth0/0",1000,1390995789
+10105,"10.215.32.101","Gi0/5","'up'","'up'",10105,"'ethernetCsmacd'","GigabitEthernet0/5","*** Cisco ASA 5510 DEMO-EXT-FW port Eth0/0 ***",1000,1390995789
+10106,"10.215.32.101","Gi0/6","'up'","'up'",10106,"'ethernetCsmacd'","GigabitEthernet0/6","*** Cisco ASA 5510 DEMO-CTX-FW port Eth0/1 ***",1000,1390995789
+10107,"10.215.32.101","Gi0/7","'up'","'up'",10107,"'ethernetCsmacd'","GigabitEthernet0/7",sw07,1000,1390995789
+10108,"10.215.32.101","Gi0/8","'up'","'up'",10108,"'ethernetCsmacd'","GigabitEthernet0/8","*** Cisco ASA 5510 DEMO-EXT-FW port Eth0/1 ***",1000,1390995789
+10109,"10.215.32.101","Gi0/9","'up'","'up'",10109,"'ethernetCsmacd'","GigabitEthernet0/9","*** Cisco 2921 port Gig0/1 ***",1000,1390995789
+10110,"10.215.32.101","Gi0/10","'up'","'up'",10110,"'ethernetCsmacd'","GigabitEthernet0/10","** n5k01.demo.datametrix.no management **",1000,1390995789
+10111,"10.215.32.101","Gi0/11","'up'","'up'",10111,"'ethernetCsmacd'","GigabitEthernet0/11","Cisco ASA 5510 DEMO-CTX-FW stdb port Eth0/0",1000,1390995789
+10112,"10.215.32.101","Gi0/12","'up'","'up'",10112,"'ethernetCsmacd'","GigabitEthernet0/12","** UCS01-A.demo.datametrix.no management **",1000,1390995789
+10113,"10.215.32.101","Gi0/13","'up'","'up'",10113,"'ethernetCsmacd'","GigabitEthernet0/13","SEC - demo-ctx-fw failover eth0/3 DO NOT DISCONNECT!!!!",100,1390995789
+10114,"10.215.32.101","Gi0/14","'up'","'up'",10114,"'ethernetCsmacd'","GigabitEthernet0/14","SEC - demo-ctx-fw failover eth0/3 DO NOT DISCONNECT!!!!",100,1390995789
+10115,"10.215.32.101","Gi0/15","'down'","'up'",10115,"'ethernetCsmacd'","GigabitEthernet0/15","** Mot Demo-core-sw-04 10.215.32.105 **",10,1390995789
+10116,"10.215.32.101","Gi0/16","'up'","'up'",10116,"'ethernetCsmacd'","GigabitEthernet0/16","** UCS01-B.demo.datametrix.no management **",1000,1390995789
+10117,"10.215.32.101","Gi0/17","'up'","'up'",10117,"'ethernetCsmacd'","GigabitEthernet0/17","** cx4-b.demo.datametrix.no **",1000,1390995789
+10118,"10.215.32.101","Gi0/18","'up'","'up'",10118,"'ethernetCsmacd'","GigabitEthernet0/18","*** Mot DAX Intern - VLAN39 ***",1000,1390995789
+10119,"10.215.32.101","Gi0/19","'up'","'up'",10119,"'ethernetCsmacd'","GigabitEthernet0/19","*** Trunk mot Nexus 5010 ***",1000,1390995789
+10120,"10.215.32.101","Gi0/20","'up'","'up'",10120,"'ethernetCsmacd'","GigabitEthernet0/20","**Management ASA 5510 - 10.215.39.10**",100,1390995789
+10121,"10.215.32.101","Gi0/21","'up'","'up'",10121,"'ethernetCsmacd'","GigabitEthernet0/21","**Management ASA 5510 - 10.215.39.11**",100,1390995789
+10122,"10.215.32.101","Gi0/22","'up'","'up'",10122,"'ethernetCsmacd'","GigabitEthernet0/22","**Management ASA 5510 - 10.215.39.12**",100,1390995789
+10123,"10.215.32.101","Gi0/23","'up'","'up'",10123,"'ethernetCsmacd'","GigabitEthernet0/23","Cisco ip cam 4300 datarom K1",100,1390995789
+10124,"10.215.32.101","Gi0/24","'down'","'up'",10124,"'ethernetCsmacd'","GigabitEthernet0/24","** esxadmin02.demo.datametrix.no **",10,1390995789
+10125,"10.215.32.101","Gi1/1","'down'","'up'",10125,"'ethernetCsmacd'","GigabitEthernet1/1",,10,1390995789
+10126,"10.215.32.101","Gi1/2","'down'","'up'",10126,"'ethernetCsmacd'","GigabitEthernet1/2",,10,1390995789
+10127,"10.215.32.101","Gi1/3","'down'","'up'",10127,"'ethernetCsmacd'","GigabitEthernet1/3",,10,1390995789
+10128,"10.215.32.101","Gi1/4","'down'","'up'",10128,"'ethernetCsmacd'","GigabitEthernet1/4",,10,1390995789
+10201,"10.215.32.101","Te1/1","'down'","'up'",10201,"'ethernetCsmacd'","TenGigabitEthernet1/1",,10,1390995789
+10202,"10.215.32.101","Te1/2","'down'","'up'",10202,"'ethernetCsmacd'","TenGigabitEthernet1/2",,10,1390995789
+10501,"10.215.32.101",Nu0,"'up'","'up'",10501,"'other'",Null0,,10000,1390995789
+10502,"10.215.32.101",Fa0,"'down'","'down'",10502,"'ethernetCsmacd'",FastEthernet0,,100,1390995789
+32,"10.215.32.101",Vl32,"'up'","'up'",32,"'propVirtual'",Vlan32,,1000,1390995789
+5001,"10.215.32.101",Po1,"'up'","'up'",5001,"'propVirtual'","Port-channel1","EtherChannel mot DEMO-EXT-FW",2000,1390995789
+5002,"10.215.32.101",Po2,"'up'","'up'",5002,"'propVirtual'","Port-channel2","*** EtherChannel mot DEMO-EXT-FW ***",2000,1390995789
+5003,"10.215.32.101",Po3,"'up'","'up'",5003,"'propVirtual'","Port-channel3","EtherChannel mot DEMO-EXT-FW standb",2000,1390995789

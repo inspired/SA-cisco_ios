@@ -1,0 +1,35 @@
+[app/ui]
+version = 6.0
+modtime = 1390995882.546765000
+
+[app/launcher]
+version = 6.0
+modtime = 1390995882.550567000
+
+[app/package/check_for_updates]
+version = 6.0
+modtime = 1390995882.551724000
+
+[savedsearches/__generate_cisco_ios_snmp_interfaces]
+owner = admin
+version = 6.0
+modtime = 1390996237.443279000
+
+[transforms/CiscoSNMPInterfaces]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.0
+modtime = 1390996514.977103000
+
+[savedsearches/__generate_cisco_ios_snmp_info]
+owner = admin
+version = 6.0
+modtime = 1390996951.538253000
+
+[transforms/CiscoSNMPInfo]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.0
+modtime = 1390996979.124415000
