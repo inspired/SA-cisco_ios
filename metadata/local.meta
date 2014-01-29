@@ -40,3 +40,15 @@ export = none
 owner = admin
 version = 6.0
 modtime = 1390997687.852773000
+
+[savedsearches/__generate_cisco_ios_hosts]
+owner = admin
+version = 6.0
+modtime = 1390998745.467221000
+
+[transforms/CiscoIOSHosts]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.0
+modtime = 1390998832.270392000
