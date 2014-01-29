@@ -33,3 +33,10 @@ export = none
 owner = admin
 version = 6.0
 modtime = 1390996979.124415000
+
+[savedsearches/Cisco%20IOS%20SNMP%20Interfaces]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.0
+modtime = 1390997687.852773000
