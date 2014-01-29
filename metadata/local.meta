@@ -17,10 +17,10 @@ modtime = 1390996237.443279000
 
 [transforms/CiscoSNMPInterfaces]
 access = read : [ * ], write : [ admin ]
-export = none
+export = system
 owner = admin
 version = 6.0
-modtime = 1390996514.977103000
+modtime = 1390999447.441060000
 
 [savedsearches/__generate_cisco_ios_snmp_info]
 owner = admin
@@ -29,10 +29,10 @@ modtime = 1390996951.538253000
 
 [transforms/CiscoSNMPInfo]
 access = read : [ * ], write : [ admin ]
-export = none
+export = system
 owner = admin
 version = 6.0
-modtime = 1390996979.124415000
+modtime = 1390999450.728173000
 
 [savedsearches/Cisco%20IOS%20SNMP%20Interfaces]
 access = read : [ * ], write : [ admin ]
@@ -48,7 +48,7 @@ modtime = 1390998745.467221000
 
 [transforms/CiscoIOSHosts]
 access = read : [ * ], write : [ admin ]
-export = none
+export = system
 owner = admin
 version = 6.0
-modtime = 1390998832.270392000
+modtime = 1390999453.333255000
